@@ -61,3 +61,4 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Bug Zero | Sri Lanka| [@BugZero_io](https://twitter.com/BugZero_io) | ✅ | 📣 | ✅ | ❓ | https://bugzero.io/programs |
 | SHERLOCK | ❓ | [@sherlockdefi](https://twitter.com/sherlockdefi) | ✅ | 📣 | ✅ | https://app.sherlock.xyz/audits/leaderboard | https://app.sherlock.xyz/audits/contests |
 | The Saloon | ❓ | [@saloonfinance](https://twitter.com/saloonfinance) | ✅ | 📣 | ✅ | ❓ | https://saloon.finance/bounties |
+| Com Olho | India | [@com_olho](https://twitter.com/com_olho) |  ✅ | 📣 | ✅ | https://www.comolho.com/ | https://www.comolho.com |
