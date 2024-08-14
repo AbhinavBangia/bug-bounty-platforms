@@ -6,7 +6,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 
 | Name | Location | Twitter | Active | Private/Public | Bounties | Hall of Fame | Program List |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|---|
-| ødin | USA | [@0dinai](https://twitter.com/0dinai) | ❓ | ❓ | ❓ | ❓ | ❓ |
+| ødin | USA | [@0dinai](https://twitter.com/0dinai) | ✅ | ❓ | ❓ | ❓ | ❓ |
 | Bug Bounty Switzerland | Switzerland | [@bugbounty_ch](https://twitter.com/bugbounty_ch) | ✅ | 🤫 + 📣  | ✅ | ❓ | ❓ |
 | Bug Hunt | Brazil | ❓ | ✅ | 🤫 + 📣  | ✅ | https://bughunt.com.br/ranking-bughunters.html | ❓ |
 | Bug Zero | Sri Lanka| [@BugZero_io](https://twitter.com/BugZero_io) | ✅ | 📣 | ✅ | ❓ | https://bugzero.io/programs |
@@ -22,6 +22,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Cesppa | USA | [@inspectiv](https://twitter.com/inspectiv) | ✅ | 🤫 + 📣  | ✅ | ❓ | https://app.inspectiv.com/#/programs |
 | Cobalt | USA | [@cobalt_io](https://twitter.com/cobalt_io) | ✅ | 🤫 | ✅ | https://app.cobalt.io/pentesters | ❓ |
 | Code4rena | ❓ | [@code4rena](https://twitter.com/code4rena) | ✅ | 📣 | ✅ | https://code4rena.com/leaderboard | https://code4rena.com/contests |
+| Com Olho | India | https://www.linkedin.com/company/com-olho | ✅ | 🤫 + 📣  | ✅ | https://cyber.comolho.com/researcher-community/| https://cyber.comolho.com/programs/bug-bounty/|
 | Compass Security | Switzerland | [@compasssecurity](https://x.com/compasssecurity) | ✅ | 🤫 + 📣  | ✅ | ❓ | https://bugbounty.compass-security.com/ |
 | Crowdswarm | United Arab Emirates | [@Crowdswarm1](https://twitter.com/Crowdswarm1) | ✅ | 🤫 + 📣  | ✅ | ❓ | https://app.crowdswarm.io/p.html |
 | Cyber Army Indonesia | Indonesia | [@cyberarmyid](https://twitter.com/cyberarmyid) | ✅ | 🤫 + 📣  | ✅ | https://www.cyberarmy.id/leaderboard | https://www.cyberarmy.id/programs |
